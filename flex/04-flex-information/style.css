@@ -24,3 +24,22 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* solution */
+
+body {
+  text-align: center; /* did after looking at solution*/
+ }
+.title{
+  margin-bottom: 32px;
+}
+
+.info-container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.spice-box {  
+  max-width: 200px;
+} 
