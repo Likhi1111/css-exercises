@@ -27,7 +27,7 @@ input {
 
 /* Solution */
 
-body {
+ body {
   display: flex;
   flex-direction: column;
 }
@@ -59,7 +59,6 @@ a {
   flex-direction: column;
   flex: 1;
   gap: 16px;
-  /* margin:auto; */
 }
 
 button {
@@ -68,4 +67,4 @@ button {
 
 .footer {
   background: #eee;
-}
+} */
